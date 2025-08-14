@@ -15,5 +15,8 @@ session_start();
     <div>
         <a href="logout" class="btn btn-secondary">ออกจากระบบ</a>
     </div>
+    <!-- Boostrap CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css">
+    <style></style>
 </body>
 </html>
